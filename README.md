@@ -5,7 +5,7 @@ A 3D CAD model of a graduation cap created using Onshape. The design was develop
 
 ## Onshape Design
 View the CAD model: 
-https://cad.onshape.com/documents/d6e74418586fb8d03a85bdd6/w/b38f415dcf0baa95a5db592b/e/3223b396adb9e1b2bf8e2ea4?renderMode=0&uiState=6a55cf0eebeaf58491e9db02
+https://cad.onshape.com/documents/d6e74418586fb8d03a85bdd6/w/b38f415dcf0baa95a5db592b/e/3223b396adb9e1b2bf8e2ea4
 
 ## Design Features
 - 2D sketch created from a reference image.
