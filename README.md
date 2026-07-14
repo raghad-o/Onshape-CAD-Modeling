@@ -19,10 +19,10 @@ View the CAD model:
 ## Preview
 
 ### Reference Image
-![Reference Image](Reference_Image.png)
+![Reference Image](Reference_Image.jpeg)
 
 ### CAD Model
 ![CAD Model](CAD_Model.png)
 
 ### Circular Cut Feature
-![Cut Feature](ICut_Detail.png)
+![Cut Feature](Cut_Detail.png)
