@@ -1,2 +1,28 @@
-# Onshape-CAD-Modeling
-A 3D CAD design created using Onshape, transforming a 2D reference image into a printable model through sketching and extrusion features.
+# Graduation Cap CAD Design
+
+## Overview
+A 3D CAD model of a graduation cap created using Onshape. The design was developed by transforming a 2D reference image into a printable 3D model using CAD modeling techniques.
+
+## Onshape Design
+View the CAD model:
+[Onshape Model Link](https://cad.onshape.com/documents/d6e74418586fb8d03a85bdd6/w/b38f415dcf0baa95a5db592b/e/3223b396adb9e1b2bf8e2ea4?renderMode=0&uiState=6a55b1fb0eecb2649b69de58)
+
+## Design Features
+- 2D sketch created from a reference image.
+- Applied dimensions to define the design.
+- Added a circular cut feature to allow the model to be attached as a keychain-style piece.
+- Used extrusion features to create the 3D model.
+
+## Tools Used
+- Onshape (CAD Modeling)
+
+## Preview
+
+### Reference Image
+![Reference Image](Reference_Image.png)
+
+### CAD Model
+![CAD Model](CAD_Model.png)
+
+### Circular Cut Feature
+![Cut Feature](ICut_Detail.png)
