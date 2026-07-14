@@ -25,4 +25,4 @@ View the CAD model:
 ![CAD Model](CAD_Model.png)
 
 ### Circular Cut Feature
-![Cut Feature](Cut_Detail.png)
+![Cut Feature](Circular_Cut.png)
